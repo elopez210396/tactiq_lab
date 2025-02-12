@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+backgroundColor="#767a7b"
+primaryColor = "#227c9e"
+
+[client]
+showSidebarNavigation = true
+toolbarMode = "auto"
