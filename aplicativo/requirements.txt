@@ -1,0 +1,10 @@
+pandas
+mysql.connector
+mplsoccer 
+numpy
+mplsoccer
+matplotlib.colors
+matplotlib.patheffects
+os
+streamlit_option_menu
+st_aggrid
