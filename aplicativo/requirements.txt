@@ -3,7 +3,7 @@ mysql.connector
 mplsoccer 
 numpy
 mplsoccer
-matplotlib.colors
+matplotlib
 matplotlib.patheffects
 os
 streamlit_option_menu
